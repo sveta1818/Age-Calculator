@@ -1,0 +1,30 @@
+button{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 15px;
+    color:black;
+    background-color: aqua;
+    display: block;
+    margin: auto;
+}
+h1 {
+    font-size:36px;
+    font-family:"Tahoma";
+    margin: 10px;
+    color: #000000;
+    text-align: center;
+    padding: 25px;
+}
+#result {
+    text-align: center;
+    font-size:30px;
+    font-family:"Tahoma";
+    margin: 10px;
+    color: #000000;
+    padding: 25px;
+
+}
+img{
+    display: block;
+    margin: auto;
+}
